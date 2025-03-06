@@ -1,0 +1,8 @@
+/input_pdf
+.env
+*.pdf
+__pycache__
+.vscode
+/logs
+const.json
+/venv
