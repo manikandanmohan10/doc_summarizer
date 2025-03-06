@@ -1,4 +1,4 @@
-# Commodity Summarizer
+# Doc Summarizer
 
 The tool's purpose is to deliver concise summaries for each agricultural commodity class, offering a quick and simplified overview of complex commodity data. Its name implies providing users with clear insights at a glance, streamlining their understanding.
 
@@ -7,7 +7,7 @@ The tool's purpose is to deliver concise summaries for each agricultural commodi
 
 **Prerequisites**
 - [Python 3.10+](https://www.python.org/downloads/#:~:text=Python%203.10.15,Release%20Notes)
-- [PineCone](https://github.com/Antony-M1/opensearch_docker) - get the pinecone documentation link.
+- [PineCone](https://app.pinecone.io/) - get the pinecone documentation link.
 - [Flake 8](https://marketplace.visualstudio.com/items?itemName=ms-python.flake8) for the PEP 8 Standard Edition
 
 # .env
